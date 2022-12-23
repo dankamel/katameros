@@ -84,3 +84,7 @@ I've posted it here on GitHub so that developers can find it.
 I have no idea who Elipti is, their whereabouts or who they are. But it is safe to say, this individual, is carrying the whole of the digital Coptic Church solely on their shoulders. 
 
 May God shower them with grace 💫 🙏.
+
+Update, it seems the mysterious figure known as Elipti is none other than Mark Mina. A Copt residing in Canada who built the project in January 2020.
+
+Contact details: mark.mina@shaw.ca
